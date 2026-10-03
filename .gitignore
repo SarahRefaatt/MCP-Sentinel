@@ -1,0 +1,4 @@
+mcp_security_env/
+__pycache__/
+*.pyc
+.env

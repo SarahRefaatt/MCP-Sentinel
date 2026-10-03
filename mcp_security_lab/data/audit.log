@@ -1,0 +1,6 @@
+[2026-10-03T14:44:50.954383] TOOL: read_file - Decision: ALLOWED - Reason: Policy: allow
+[2026-10-03T14:44:59.903366] TOOL: write_file - Decision: ASK - Reason: Awaiting approval
+[2026-10-03T14:45:03.686092] TOOL: write_file - Decision: ALLOWED - Reason: Policy: ask
+[2026-10-03T14:45:38.272395] TOOL: write_file - Decision: ALLOWED - Reason: Policy: ask
+[2026-10-03T14:45:38.331745] WRITE: test.txt
+[2026-10-03T14:45:49.046730] TOOL: read_file - Decision: ALLOWED - Reason: Policy: allow
